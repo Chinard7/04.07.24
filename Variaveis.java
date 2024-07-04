@@ -15,10 +15,10 @@ public class Variaveis {
         byte varByte = 1; // declaraçao da variavel varByte, do tipo Byte, com valor recebido 1
         System.out.println(varByte);
 
-        char varChar = 'r'; // declaraçao da variavel varByte, do tipo Char, aceita apenas 1 caracter
+        char varChar = 'r'; // declaraçao da variavel varChar, do tipo Char, aceita apenas 1 caracter
         System.out.println(varChar);
 
-        float varFloat = 19.99f; // declaraçao da variavel varByte, do tipo Float, com valor recebido 19.99
+        float varFloat = 19.99f; // declaraçao da variavel varFloat, do tipo Float, com valor recebido 19.99
         System.out.println(varFloat);
 
         double varDouble = 0.263568954; // declaraçao da variavel varDouble, do tipo Double, com valor recebido 0.263568954
